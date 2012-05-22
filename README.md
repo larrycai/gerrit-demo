@@ -47,7 +47,7 @@ The theme is customized as well, and it is reuse from reusing [openstack](review
 
 See the sample below
 
-![gerrit demo system](demo-standard.png)
+![gerrit demo system](https://github.com/larrycai/gerrit-demo/raw/master/demo-standard.png)
 
 ## Gerrit account configuration
 Since the development mode is used, other account is created via command line. 1000000 will be created automatically as admin.
